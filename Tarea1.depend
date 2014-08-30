@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1409418267 source:c:\users\ariel\desktop\universidad\semestre ll\estructuras de datos\codeblocks proyects\tarea1\main.cpp
+	<iostream>
+	"include\LList.h"
+	"include\ArrayList.h"
+
+1409422719 c:\users\ariel\desktop\universidad\semestre ll\estructuras de datos\codeblocks proyects\tarea1\include\llist.h
+	"Node.h"
+	<stdexcept>
+
+1409355356 c:\users\ariel\desktop\universidad\semestre ll\estructuras de datos\codeblocks proyects\tarea1\include\node.h
+
+1409418340 c:\users\ariel\desktop\universidad\semestre ll\estructuras de datos\codeblocks proyects\tarea1\include\arraylist.h
+	<stdexcept>
+
